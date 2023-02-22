@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>lekhana's personal site</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td> <img src="InShot_20201212_135555652-modified.png" alt="lekhana profile picture"></td>
+      <td>
+        <h1>Lekhana</h1>
+        <p>
+          <em>Student</em>
+        </p>
+        <br>
+        <p>i'm a student who is learning many new things right now, in oreder to gain knowledge and widen my knowledge on computer science and it's languages.</p>
+      </td>
+    </tr>
+  </table>
+  <hr>
+  <p>
+  <h3>Education</h3>
+  <ol>
+    <li>Royal English School</li>
+    <ol>
+      <li>1-4</li>
+    </ol>
+    <li>Amar Jyothi Public School</li>
+    <ol>
+      <li>5-7</li>
+    </ol>
+    <li>vagdevi villas high school</li>
+    <ol>
+      <li>8-10</li>
+    </ol>
+    <li>
+      <a href="https://www.gopalancolleges.com/gcem/index.html">Gopalan College of Engineering and Management</a>
+      <ol>
+        <li>CSE</li>
+      </ol>
+    </li>
+  </ol>
+  </p>
+  <hr >
+  <h3>Skills</h3>
+  <table cellspacing="10">
+    <tr>
+      <td>Cooking</td>
+      <td>⭐⭐⭐⭐⭐</td>
+      <td>Reading comics, novels</td>
+      <td>⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td>Drawing</td>
+      <td>⭐⭐⭐</td>
+      <td>Playing Games</td>
+      <td>⭐⭐</td>
+    </tr>
+
+  </table>
+  <hr>
+  <a href="contactme.html"><strong>Contact me</strong></a>
+  </p>
+  <hr>
+</body>
+
+</html>
